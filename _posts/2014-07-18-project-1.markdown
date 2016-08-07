@@ -1,12 +1,13 @@
 ---
 layout: default
+title: Fudi Responsive Webpage
 modal-id: 1
-date: 2014-07-18
-img: fudi_preview.png
-alt: image-alt
+date: 2016-08-03
+img: fudisize.png
+alt: desktop tablet phone preview
 project-date: June 2016
 client: Practice
-category: Responsive webpage with Jquery
-description: I built this from a PSD landing page that I found on Dribble. It is built to be responsive and has a Jquery carousel. For a live look visit <a href="rcgilmore/github.i0/Fudi">Fudi</a>!
+category: Responsive webpage
+description: I built this from a PSD found on Dribble. It was created by using Sass and VW. It's fully responsive with media breaks. For a better look visit <a href="https://rcgilmore.github.io/Fudi/">Fudi!</a>
 
 ---

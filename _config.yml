@@ -5,6 +5,7 @@ url: https://rcgilmore.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 skills: "Web Developer - Dancer - World Traveler"
 meta_author: Gilmore Rebecca
+repository: rcgilmore/rcgilmore.github.io
 
 # Google webmaster tools
 google_verify:
@@ -24,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 49404F #80B3FF
+  primary-rgb: "73,64,79" #"128,179,255"
+  secondary: 596166 #FD6E8A
+  secondary-dark: 644D52 #A2122F
 
 # Footer settings
 footer:
@@ -53,7 +54,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits:
 
 # Build settings
 markdown: kramdown
