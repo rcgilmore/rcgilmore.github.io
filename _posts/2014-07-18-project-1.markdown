@@ -4,10 +4,13 @@ title: Fudi Responsive Webpage
 modal-id: 1
 date: 2016-08-03
 img: fudisize.png
+modal-img: fudi.jpg
 alt: desktop tablet phone preview
 project-date: June 2016
-client: Practice
+client: Fudi Repository
+repo-url: http://github.com/rcgilmore/Fudi
 category: Responsive webpage
-description: I built this from a PSD found on Dribble. It was created by using Sass and VW. It's fully responsive with media breaks. For a better look visit <a href="https://rcgilmore.github.io/Fudi/">Fudi!</a>
+description: I built this from a PSD found on Dribble. It was created by using HTML5 and Sass. The carousel is built with CSS VW and jQuery. It's fully responsive with media breaks.                                                                                                                                     For a live view visit <a href="https://rcgilmore.github.io/Fudi/" target="_blank" >FUDI!</a>
+
 
 ---

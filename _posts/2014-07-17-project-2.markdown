@@ -3,11 +3,13 @@ layout: default
 modal-id: 2
 date: 2016-08-03
 img: sellysize.png
+modal-img: selly.png
 alt: computer on desk mockup
 project-date: May 2016
-title: Selly Comp with jQuery
-client: Practice
+title: Selly with jQuery
+client: Selly Repository
+repo-url: http://github.com/rcgilmore/Selly-Comp
 category: Web Development
-description: This project was created from a PSD into HTML5. It showcases jQeury with a sticky sidebar, waypoints, and scrollTo. For a better look visit <a href="https://rcgilmore.github.io/Selly-comp/">Selly.</a>
+description: This project was built from a PSD into HTML5. It showcases jQeury with a sticky sidebar, waypoints, and scrollTo. The form has email validation with notifications for correct and incorrect email addresses. For a live view visit <a href="https://rcgilmore.github.io/Selly-comp/" target="_blank">SELLY.</a>
 
 ---
