@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 4
+date: 2016-08-20
+title: Ray-Ban
+img: ray-ban-mockup.png
+modal-img: ray-ban.png
+alt: ray-ban on mac
+project-date: August 2016
+client: Profile
+repo-url: http://github.com/rcgilmore/Ray-Ban
+category: PSD to HTML
+description: This comp is fully responsive with clear organized code using BEM. The social media icons are made with a sprite sheet. For a live view go to <a href="https://rcgilmore.github.io/Ray-Ban/" target="_blank">Ray-Ban.</a>
+
+---
